@@ -1,9 +1,0 @@
-1. stuff that needs adding:
-    1. Update, 2. Delete, 3. Alter, 4. Truncate, 5. Drop, 6. Rename
-    2. constraints (types of keys, and not null constraints etc)
-    3. SQL0 - how to get a setup
-    4. extra links - 1. datatypes notebook, 2. datetime link
-    5. SQL in Data Science! - one chapter should be sufficient 
-    
-2 . DDL, DML
-3. WITH CLAUSE,  CTE
